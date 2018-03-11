@@ -4,16 +4,22 @@ This program generate maps with places, where movies were filmed for particular 
 
 Installing requirements
 ---------------
+```bash
 $ pip3 install -r requirments.txt
+```
 
 Getting started
 ---------------
 To run app write in terminal
 if you are using Linux or MacOs
+```bash
 $ python3 -m app
+```
 
 if you are using Windows
+```bash
 $ python -m app
+```
 
 Example of work
 ---------------
